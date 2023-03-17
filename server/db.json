@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "username": "demo",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "username": "demow",
+      "password": "1234562"
+    },
+    {
+      "id": 3,
+      "username": "demor",
+      "password": "123456e"
+    },
+    {
+      "username": "dinhlinh4",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "username": "hhhhh",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "username": "jkgkggaa11",
+      "password": "11111",
+      "id": 6
+    },
+    {
+      "username": "llllllsinha11",
+      "password": "12345",
+      "id": 7
+    }
+  ]
+}
